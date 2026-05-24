@@ -2,7 +2,8 @@
   "name": "cycle7",
   "vendorId": "0x9A94",
   "productId": "0x9F70",
-  "lighting": "qmk_rgblight",
+  "keycodes": ["qmk_lighting"],
+  "menus": ["qmk_rgblight"],
   "matrix": {
     "rows": 5,
     "cols": 16
